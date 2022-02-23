@@ -1,0 +1,5 @@
+Untuk akses admin : localhost/museum/admin/admin/login.php
+Username : admin
+Password : admin
+
+Buat lagi database baru dengan nama database yang sama, lalu import file sql yang ada di folder museum
